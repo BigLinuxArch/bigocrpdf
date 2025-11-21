@@ -1,8 +1,8 @@
 # Maintainer: Bruno Goncalves <bigbruno@gmail.com>
 
 pkgname=bigocrpdf
-pkgver=
-pkgrel=
+pkgver=24.12.10
+pkgrel=1947
 arch=('any')
 license=('GPL')
 url="https://github.com/biglinux/bigocrpdf"
