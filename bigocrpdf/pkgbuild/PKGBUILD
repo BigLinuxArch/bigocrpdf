@@ -11,7 +11,7 @@ depends=('bigbashview' 'python-sortedcontainers' 'ocrmypdf' 'rxvt-unicode' 'jbig
 optdepends=('tesseract-data-por'
             'tesseract-data-eng'
             'tesseract-data-spa')
-source=("git+https://github.com/biglinux/bigocrpdf.git")
+source=("git+https://github.com/biglinux/bigocrpdf.git#branch=stable-2024-12-10_16-42")
 md5sums=(SKIP)
 
 package() {
